@@ -2,4 +2,4 @@
 das ist ein erster test einer README Datei
 
 ---
-Bei Fragen: xxx Kontakt
+- Bei Fragen: xxx Kontakt
