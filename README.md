@@ -1,5 +1,6 @@
 # 2022-04-26
-das ist ein erster test einer README Datei
+Das ist ein Uni-Projekt für das Modul: Data Librarianship
+Primäres Ziel: erlernen von Git und GitHub
 
 ---
 - Bei Fragen: xxx Kontakt
